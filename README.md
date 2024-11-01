@@ -4,7 +4,7 @@
 > The project is still under development 🙂
 
 > [!NOTE]
-> This is my database project with Ahsan , umar and rehman 
+> This is my CRAD based project for Database Management System sub project with team members [Ahsan](https://github.com/MrAhsan777) , [umar](https://github.com/Umarkeerio) and [rehman](#) 
 
 **Features**  
 - **➕ Add Trains**: Enter details to add a train.  
@@ -25,4 +25,4 @@
 > [!IMPORTANT]  
 > # link : comin soon
 
-> **ℹ️ For More Info**: [Project on GitHub]()
+> **ℹ️ For More Info**: [Project simple structure](https://github.com/Raufjatoi/Railway-Management-System/blob/main/struture.txt)
