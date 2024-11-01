@@ -1,4 +1,4 @@
-# Railway Management System in Streamlit
+# Railway Management System
 
 > [!WARNING]
 > The project is still under development 🙂
