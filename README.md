@@ -4,7 +4,7 @@
 > The project is still under development 🙂
 
 > [!NOTE]
-> This is my CRAD based project for Database Management System sub project with team members [Ahsan](https://github.com/MrAhsan777) , [umar](https://github.com/Umarkeerio) and [rehman](#) 
+> This is my CRAD based project for Database Management System subject with team members [Ahsan](https://github.com/MrAhsan777) , [umar](https://github.com/Umarkeerio) and [rehman](#) 
 
 **Features**  
 - **➕ Add Trains**: Enter details to add a train.  
