@@ -1,5 +1,5 @@
-railway_management_system/
+railway_management_system/  main files 
 ├── app.py               
-├── database.py           
-├── requirements.txt      
-└── README.md             
+├── db.py           
+├── rail.db      
+└── requirements.txt            
