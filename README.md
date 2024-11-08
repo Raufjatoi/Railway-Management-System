@@ -51,4 +51,4 @@ The Railway Management System is a web application designed to streamline train 
 > [!IMPORTANT]
 > The project is continuously evolving, with new features and enhancements planned.
 
-For a more detailed look at the project structure, refer to the [project structure document](https://github.com/Raufjatoi/Railway-Management-System/blob/main/structure.txt).
+For a more detailed look at the project structure, refer to the [project structure document](https://github.com/Raufjatoi/Railway-Management-System/structure.txt).
