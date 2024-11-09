@@ -1,10 +1,10 @@
 # Railway Management System
 
 > [!WARNING]
-> This project is currently in development 🙂 ( everythin works tho )
+> This project is currently in Testing and Development 🙂
 
 > [!NOTE]
-> This is a CRUD-based project developed as part of the **Database Management System** coursework, created by a team comprising [Ahsan](https://github.com/MrAhsan777), [Umar](https://github.com/Umarkeerio), and [Rehman](#).
+> This is a CRUD-based project developed as part of the **Database Management System** coursework, created by a team comprising [Ahsan](https://github.com/MrAhsan777), [Umar](https://github.com/Umarkeerio), and [Rehman](#) 🐘
 
 ## Project Overview
 The Railway Management System is a web application designed to streamline train management and booking processes. The system includes features for both **admin users** and **regular users**, providing a user-friendly interface for booking trains and managing records.
