@@ -150,7 +150,7 @@ if s.session_state.page == "login":
                 s.session_state.role = user[2]
                 s.success(f"Hello, {user[1]}!")
                 s.session_state.page = "main"
-                s.experimental_rerun()
+                s.rerun()
             else:
                 s.error("Invalid username or password.")
         if s.button("Don't have an account? Create one"):
