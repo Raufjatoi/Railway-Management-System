@@ -46,7 +46,7 @@ The Railway Management System is a web application designed to streamline train 
         - `Bookings` table to manage ticket bookings.
     - This setup enables user registration, login, and booking features to function as intended.
 
-## Upcoming Features
+## Try it 
 
 > [!IMPORTANT]
 > # LINK: https://railway-management-system-by-raufjatoi.streamlit.app/
