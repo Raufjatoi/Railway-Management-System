@@ -51,4 +51,5 @@ The Railway Management System is a web application designed to streamline train 
 > [!IMPORTANT]
 > # LINK: https://railway-management-system-by-raufjatoi.streamlit.app/
 
-For a more detailed look at the project structure, refer to the [project structure document](https://github.com/Raufjatoi/Railway-Management-System/blob/main/struture.txt).
+For a more detailed look at the project structure, refer to the [project structure document](https://github.com/Raufjatoi/Railway-Management-System/blob/main/struture.txt). and check out the DB ERdiagram here : 
+[Light](https://github.com/Raufjatoi/Railway-Management-System/blob/main/ErDiagram_L.png) and [Dark](https://github.com/Raufjatoi/Railway-Management-System/blob/main/ErDiagram_D.png)     
